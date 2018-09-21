@@ -6,17 +6,17 @@ Just clone the repo and use bash command to run bash files.
 
 # Install docker over ubuntu:
 
-bash docker-installation-linux.sh
+`bash docker-installation-linux.sh`
 
 - Note; It will gonna remove docker and docker images first and then reinstall docker again to overcome docker daemon issues.
 
 # Install docker compose using python-pip:
 
-bash docker-compose-installation-linux.sh
+`bash docker-compose-installation-linux.sh`
 
 # Install go mongo installation over ubuntu and create default mongo db users:
 
-bash go-mongo-installation-linux.sh
+`bash go-mongo-installation-linux.sh`
 
 - Note: it will remove previous installed go and mongo and then reinstall again. It will also goona set default users like:
 
