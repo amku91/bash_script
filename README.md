@@ -4,17 +4,17 @@ Bash script to install go, mongo db, docker, docker-compose over a ubuntu machin
 
 Just clone the repo and use bash command to run bash files.
 
-Install docker over ubuntu :
+Install docker over ubuntu:
 
 bash docker-installation-linux.sh
 
 - Note; It will gonna remove docker and docker images first and then reinstall docker again to overcome docker daemon issues.
 
-Install docker compose using python-pip
+Install docker compose using python-pip:
 
 bash docker-compose-installation-linux.sh
 
-Install go mongo installation over ubutnu
+Install go mongo installation over ubutnu:
 
 bash go-mongo-installation-linux.sh
 
